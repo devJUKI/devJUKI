@@ -29,10 +29,9 @@ I'm a backend developer that tries to improve his code writing ability everyday.
 ### ✒ Couple of my projects
 
 <!-- BEGIN GITHUB-PROJECTS -->
-  <a href="https://github.com/devJUKI/TSP_GA/"><img width="245" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=TSP_GA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tsp_ga"></a>
-  <a href="https://github.com/devJUKI/MATLAB-ConnectedGraph"><img width="245" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=MATLAB-ConnectedGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="matlab_connectedGraph"></a>
-  <a href="https://github.com/devJUKI/N-Queen-Problem"><img width="245" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=N-Queen-Problem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="n_queen_problem"></a>
-  <a href="https://github.com/devJUKI/Haskell-TSP"><img width="245" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=Haskell-TSP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="haskell_tsp"></a>
+  <a href="https://github.com/devJUKI/TSP_GA/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=TSP_GA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tsp_ga"></a>
+  <a href="https://github.com/devJUKI/MATLAB-ConnectedGraph"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=MATLAB-ConnectedGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="matlab_connectedGraph"></a>
+  <a href="https://github.com/devJUKI/N-Queen-Problem"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=N-Queen-Problem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="n_queen_problem"></a>
 <!-- END GITHUB-PROJECTS -->
 
 <p align="left">
