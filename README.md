@@ -7,8 +7,6 @@ I'm a backend developer that tries to improve his code writing ability everyday.
    <p align="left">
       <a href="https://www.fiverr.com/jukicode">
          <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-62-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
-      <a href="https://github.com/devJUKI?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devJUKI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
    </p>
 
 ---
