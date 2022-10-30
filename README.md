@@ -2,7 +2,7 @@
 
 **`Developer with Passion 🔥`**
 
-I'm a backend developer that constantly tries to improve his code writing ability. Currently most projects in my GitHub are from university, because I spend most of my time on them, but couple other projects are from my personal collection, because programming is also my hobby, so that is what I do after university work too. I love making small games/applications so I could improve with each and every one of them and I also like learning new technologies in the programming field.
+I'm a backend developer that constantly tries to improve his code writing ability. Currently most projects in my GitHub are from university, because I spend most of my time on them, but there are couple projects from my personal collection aswell, because programming is also my hobby, so that is also what I often do in my free time. I love making small games/applications, so I could improve with each and every one of them and learn new technologies in the programming field the fun way.
 
    <p align="left">
       <a href="https://www.fiverr.com/jukicode">
