@@ -6,7 +6,7 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 
    <p align="left">
       <a href="https://www.fiverr.com/jukicode">
-         <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-62-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
+         <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-71-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
    </p>
 
 ---
