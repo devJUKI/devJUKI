@@ -16,7 +16,6 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -38,8 +37,8 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats -->
 
-![Justas's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&show_icons=true&theme=gruvbox)
+<!-- ![Justas's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=devJUKI&theme=gruvbox&border_radius=4.5) -->
