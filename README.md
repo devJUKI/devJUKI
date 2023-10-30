@@ -34,10 +34,12 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 </p>
 -->
 
+<!--
 #
 
-<!-- ### 📊 Stats -->
+### 📊 Stats
 
-<!-- ![devJUKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&count_private=true&show_icons=true) -->
+![devJUKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&count_private=true&show_icons=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=devJUKI) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=devJUKI)
+-->
