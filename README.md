@@ -6,7 +6,7 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 
    <p align="left">
       <a href="https://www.fiverr.com/jukicode">
-         <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-71-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
+         <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-74-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
    </p>
 
 ---
@@ -17,8 +17,7 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 <img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 #
@@ -26,9 +25,9 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 ### ✒ Couple of my projects
 
 <!-- BEGIN GITHUB-PROJECTS -->
-  <a href="https://github.com/devJUKI/TSP_GA/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=TSP_GA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="tsp_ga"></a>
-  <a href="https://github.com/devJUKI/MATLAB-ConnectedGraph"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=MATLAB-ConnectedGraph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="matlab_connectedGraph"></a>
-  <a href="https://github.com/devJUKI/N-Queen-Problem"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=N-Queen-Problem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="n_queen_problem"></a>
+  <a href="https://github.com/devJUKI/car-parts-shop-platform/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=car-parts-shop-platform" alt="car-parts-shop-platform"></a>
+  <a href="https://github.com/devJUKI/travelling-salesman-genetic-algorithm"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=travelling-salesman-genetic-algorithm" alt="travelling-salesman-genetic-algorithm"></a>
+  <a href="https://github.com/devJUKI/autoplius-scraper"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=autoplius-scraper" alt="autoplius-scraper"></a>
 <!-- END GITHUB-PROJECTS -->
 
 <p align="left">
