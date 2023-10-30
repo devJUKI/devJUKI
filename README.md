@@ -38,6 +38,6 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 
 <!-- ### 📊 Stats -->
 
-<!-- ![Justas's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&show_icons=true&theme=gruvbox) -->
+<!-- ![devJUKI's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJUKI&count_private=true&show_icons=true) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=devJUKI&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=devJUKI) -->
