@@ -20,19 +20,19 @@ As a backend developer, I am dedicated to constantly improving my code writing s
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+<!-- 
 #
 
 ### ✒ Couple of my projects
 
-<!-- BEGIN GITHUB-PROJECTS -->
   <a href="https://github.com/devJUKI/car-parts-shop-platform/"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=car-parts-shop-platform" alt="car-parts-shop-platform"></a>
   <a href="https://github.com/devJUKI/travelling-salesman-genetic-algorithm"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=travelling-salesman-genetic-algorithm" alt="travelling-salesman-genetic-algorithm"></a>
   <a href="https://github.com/devJUKI/autoplius-scraper"><img width="275" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devJUKI&repo=autoplius-scraper" alt="autoplius-scraper"></a>
-<!-- END GITHUB-PROJECTS -->
 
 <p align="left">
   <a href="https://github.com/devJUKI/?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-6C6C6C?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+-->
 
 #
 
