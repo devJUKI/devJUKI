@@ -1,6 +1,6 @@
 # 👨‍💻 Justas Kirklys
 
-**`Developer with Passion 🔥`**
+**`.NET Developer 🔥`**
 
 As a backend developer, I am dedicated to constantly improving my code writing skills. My GitHub showcases a range of projects, including those completed for university as well as some of my personal projects. In my free time, I enjoy using my programming skills to create small games and applications, allowing me to learn new technologies and techniques in a fun and engaging way.
 
