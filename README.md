@@ -4,11 +4,6 @@
 
 As a backend developer, I am dedicated to constantly improving my code writing skills. My GitHub showcases a range of projects, including those completed for university as well as some of my personal projects. In my free time, I enjoy using my programming skills to create small games and applications, allowing me to learn new technologies and techniques in a fun and engaging way.
 
-   <p align="left">
-      <a href="https://www.fiverr.com/jukicode">
-         <img alt="fiverr" title="My Fiverr profile" src="https://custom-icon-badges.demolab.com/badge/Fiverr-74-488207?style=for-the-badge&labelColor=darkgreen&logo=fiverr&logoColor=white"/></a>
-   </p>
-
 ---
 
 ### 💻 Tech Stack:
